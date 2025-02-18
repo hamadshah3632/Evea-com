@@ -1,0 +1,183 @@
+#logo img{
+height: 60px;
+width: 120px;
+margin-left: 20px;
+}
+
+.navbar{
+    background-color: white !important;
+}
+.navbar ul li a{
+    color: black !important;
+    font-family: sans-serif;
+}
+
+#Home{
+    background-image: url(bg-1.png);
+    background-size: cover;
+    background-position: center;
+    
+}
+.display-4{
+    font-size: large;
+    color:black;
+    text-align: center;
+    font-weight: 300;
+}
+.display-5{
+    
+    color:black;
+    text-align: center;
+}
+.display-5 span{
+    
+    color:rgb(10, 137, 175);
+    text-align: center;
+    
+}
+.lead{
+    text-align: center;
+}
+#bgimag img{
+    height: 600px;
+    width: 300px;
+   margin-left: 80px;
+   margin-top: 80px;
+}
+#store img{
+    height: 50px;
+    width: 150px;
+}
+
+#featimg img{
+    height: 600px;
+    border-radius: 15px;
+
+}
+#feature{
+    padding-top: 40px;
+}
+
+.serv {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px; 
+}
+.serv svg {
+    width: 40px; 
+    height: 40px; 
+    margin-right: 15px;
+    color: rgb(46, 161, 207);
+}
+
+
+.crdim{
+    position: relative;
+    text-align: center;
+}
+.crdim img {
+    width: 100%;
+    height: 400px;
+}
+.btn-overlay {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%); 
+    bottom: 20px;
+    margin: 5px;
+}
+
+.icon-container {
+    text-align: center;
+    padding: 10px 0;
+}
+.icon {
+    font-size: 50px;
+    color: #007bff;
+}
+
+.section-title {
+    margin-top: 40px;
+}
+.btn-group {
+    width: 100%;
+}
+.btn {
+    flex: 1;
+}
+.card {
+    margin: 15px;
+}
+.vctrimg img{
+    height: 80px;
+
+}
+.btnr button{
+    margin-bottom: 15px;
+}
+.hd2{
+    margin-top: 15px;
+    margin-bottom: 40px;
+    font-size:xx-large;
+}
+
+.testimonial-card {
+    margin: 20px; 
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+.card-img-top {
+    width: 50%; 
+    height: auto;
+    border-radius: 50%; 
+    margin: 0 auto; 
+}
+.card-body {
+    flex-grow: 1;
+    text-align: center; 
+}
+.card-footer {
+    text-align: center;
+}
+.icone svg{
+height: 40px;
+width: 40px;
+}
+
+.svgimages img{
+width: 100px;
+margin-top: 15px;
+}
+.blgimge img{
+    border-radius: 0%;
+    width: 300px;
+}
+.heading{
+    padding-top: 20px;
+}
+.heading a{
+    padding-left: 20px;
+    padding-top: 20px;
+    text-decoration: none;
+}
+.heading svg{
+    margin-right: 20px;
+    margin-top: 15px;
+}
+.heading p{
+    margin-top: 20px;
+}
+
+.contact-form {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+#formh input:hover{
+    background-color: white !important;
+}
+.logf img{
+    width: 100px;
+}
